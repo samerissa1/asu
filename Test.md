@@ -20,6 +20,16 @@ order
     
  ![Markdown Logo]( IMG_0008.jpeg)
 
+--------------------------------------------------------------------
 
+## table
+|Header1|Header2|
+|----------|-------|
+|text1|text2|
+|text3|text4|
+|text5|text6|
+.Tasks list
 
-
+- [x] Task1
+- [ ] Task2
+> this is a blockquote.
